@@ -3,5 +3,9 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::B364EDF8-293D-431F-BD05-5022C9CE204F::net7.0::FriendNet.Tests.Unit.UnitTest1.Test1&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::B364EDF8-293D-431F-BD05-5022C9CE204F::net7.0::FriendNet.Tests.Unit.Profiles.ProfileTests.GivenANameAndABioAndADateOfBirth_WhenAProfileIsConstructed_ThenAnObjectIsCreated&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B364EDF8-293D-431F-BD05-5022C9CE204F::net7.0::FriendNet.Tests.Unit.Storage.InMemoryDatabaseTests.GivenAnEmptyDatabase_WhenListIsInvoked_ThenAnEmptySetIsReturned&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B364EDF8-293D-431F-BD05-5022C9CE204F::net7.0::FriendNet.Tests.Unit.Storage.InMemoryDatabaseTests.GivenADummy_WhenAddIsInvoked_ThenTheSetIsMutated&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B364EDF8-293D-431F-BD05-5022C9CE204F::net7.0::FriendNet.Tests.Unit.Storage.InMemoryDatabaseTests.GivenADummy_WhenDeleteIsInvoked_ThenTheSetIsEmpty&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B364EDF8-293D-431F-BD05-5022C9CE204F::net7.0::FriendNet.Tests.Unit.Storage.InMemoryDatabaseTests.GivenADummy_WhenGetIsInvoked_ThenDummyIsReturned&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
